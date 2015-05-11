@@ -1,2 +1,2 @@
 # uexPopoverView
-弹出视图插件
+气泡弹出窗插件
