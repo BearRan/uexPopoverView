@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin name="uexPopoverView">
+        <method name="showPopover"></method>
+        <method name="hiddenPopover"></method>
+        <method name="setPopoverData"></method>
+        <method name="close"></method>
+    </plugin>
+</uexplugins>

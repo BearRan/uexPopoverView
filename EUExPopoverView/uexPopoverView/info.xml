@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uexplugins>
+    <plugin uexName="uexPopoverView" version="3.0.0" build="0">
+        <info>0:气泡弹出窗</info>
+    </plugin>
+</uexplugins>
